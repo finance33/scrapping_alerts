@@ -1,0 +1,7 @@
+merged_trades_analysis
+logs
+es_table_analysis
+all_trades_analysis
+.ipynb_checkpoints
+.idea
+__pycache__
